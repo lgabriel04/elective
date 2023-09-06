@@ -15,6 +15,11 @@ function App() {
   WebkitBackgroundClip: 'text',
   WebkitTextFillColor: 'transparent'
 }}>Note saver!</h1>
+      <p style={{
+  background: `linear-gradient(to right, #0074D9, #7FDBFF)`,
+  WebkitBackgroundClip: 'text',
+  WebkitTextFillColor: 'transparent'
+}}>Wealth creation sample</p>
         <CameraApp /> {/* Render the CameraApp component */}
       </header>
     </div>
